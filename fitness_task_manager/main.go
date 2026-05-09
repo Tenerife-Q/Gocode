@@ -271,6 +271,8 @@ func main() {
 		case "4":
 			deleteTask()
 		case "5":
+			// 重新加载数据，以便检测在程序运行期间文件是否被外部记事本等篡改
+			loadData()
 			if verifyChain() {
 				fmt.Println("验证结果：日志链完整，所有历史数据均未被外部篡改！")
 			} else {
