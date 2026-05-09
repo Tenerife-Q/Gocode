@@ -1,0 +1,23 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-05-07T20:06:18.9833836+08:00",
+    "summary": "系统初始化 - 创建创世操作记录",
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "ea83adce1749b4d2fc98900bd6fcc38fe614304e12d20da85fe65aef35acdb55"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-05-07T20:07:16.4801372+08:00",
+    "summary": "新增任务: [1778155636] 深蹲训练",
+    "prev_hash": "ea83adce1749b4d2fc98900bd6fcc38fe614304e12d20da85fe65aef35acdb55",
+    "hash": "4157b8d8f81aa063b4871537da0fee9fd87060b3a2f51743a4e6f3b296a8b9d7"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-05-07T20:07:55.937992+08:00",
+    "summary": "新增任务: [1778155675] 6公里晨跑",
+    "prev_hash": "4157b8d8f81aa063b4871537da0fee9fd87060b3a2f51743a4e6f3b296a8b9d7",
+    "hash": "9fcb8ff4ef362061cfcdb9c0d4669de58f53a19595756f01640ce27730a03e1a"
+  }
+]
